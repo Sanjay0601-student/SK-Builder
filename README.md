@@ -1,12 +1,10 @@
+![banner](https://github.com/user-attachments/assets/2e49d179-c83e-4a0d-b27b-11af3d8bf8df)
 <div align="center">
  <h1>
    Sirkeira Stealer 😈
  </h1>
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2e49d179-c83e-4a0d-b27b-11af3d8bf8df" width="100%" />
-</p>
 
 <br>
 
