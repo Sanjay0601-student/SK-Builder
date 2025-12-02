@@ -48,7 +48,7 @@ PyQt5
 ```
 ### Commands:
 ```
-git clone https://github.com/CirqueiraDev/SK-Builder
+git clone https://github.com/CirqueiraDev/SK-Builder.git
 ```
 
 ```
