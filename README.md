@@ -4,15 +4,7 @@
  </h1>
 </div>
 
-<div align="center">
-  <img
-    width="800"
-    height="624"
-    alt="skbuilder"
-    src="https://github.com/user-attachments/assets/332558f1-595a-4253-a293-75edaffd307b"
-    style="border-radius: 50%;"
-  />
-</div>
+![banner](https://github.com/user-attachments/assets/332558f1-595a-4253-a293-75edaffd307b)
 
 <br>
 
