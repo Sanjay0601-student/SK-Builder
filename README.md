@@ -1,6 +1,6 @@
 <div align="center">
  <h1>
-   Sirkeira Stealer 😈
+   Sirkeira Stealer
  </h1>
 </div>
 
