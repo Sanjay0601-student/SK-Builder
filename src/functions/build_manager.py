@@ -236,7 +236,7 @@ if __name__ == '__main__':
 
         write(f"→ Writing output: {py_path}")
         with open(py_path, "w", encoding="utf-8") as f:
-            f.write(protected_code)
+            f.write(part1 + protected_code)
 
         if file_type == "py":
             write("✓ Build completed: .py generated successfully.")
@@ -324,4 +324,5 @@ if __name__ == '__main__':
             return True
 
         write("✗ ERROR: invalid file_type")
+
         return False
