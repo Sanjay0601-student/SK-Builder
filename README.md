@@ -27,6 +27,13 @@ By downloading or using this repository, the user automatically assumes FULL res
  <h1>How install</h1>
 </div>
 
+### My python version
+
+```
+C:\Users\cirqueira>python --version
+Python 3.11.0
+```
+
 ### Requirements:
 ```
 requests
